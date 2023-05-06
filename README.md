@@ -35,5 +35,5 @@ My notes
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *[Rest Parameter (...args)](https://github.com/zeynep-1/freeCodeCamp-JavaScriptAlgorithmsAndDataStructures/blob/main/ES6/RestParameter.js)
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *[Spread Operator (...arr)](https://github.com/zeynep-1/freeCodeCamp-JavaScriptAlgorithmsAndDataStructures/blob/main/ES6/SpreadOperator.js)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *[Spread Operator (...arr) [...arr]](https://github.com/zeynep-1/freeCodeCamp-JavaScriptAlgorithmsAndDataStructures/blob/main/ES6/SpreadOperator.js)
 
