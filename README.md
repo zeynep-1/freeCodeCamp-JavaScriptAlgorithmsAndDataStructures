@@ -24,3 +24,16 @@ My notes
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *[Math.random() function](https://github.com/zeynep-1/freeCodeCamp-JavaScriptAlgorithmsAndDataStructures/blob/main/Basic%20JavaScript/MathRandom.js)
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *[parseInt() function](https://github.com/zeynep-1/freeCodeCamp-JavaScriptAlgorithmsAndDataStructures/blob/main/Basic%20JavaScript/parseInt.js)
+
+---
+
+2. [ES6](https://github.com/zeynep-1/freeCodeCamp-JavaScriptAlgorithmsAndDataStructures/tree/main/ES6)
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *[Var & Let & Const](https://github.com/zeynep-1/freeCodeCamp-JavaScriptAlgorithmsAndDataStructures/blob/main/ES6/es6VarLetConst.js)
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *[Arrow Functions (Anonymous Functions)](https://github.com/zeynep-1/freeCodeCamp-JavaScriptAlgorithmsAndDataStructures/blob/main/ES6/ArrowFunctions.js)
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *[Rest Parameter (...args)](https://github.com/zeynep-1/freeCodeCamp-JavaScriptAlgorithmsAndDataStructures/blob/main/ES6/RestParameter.js)
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *[Spread Operator (...arr)](https://github.com/zeynep-1/freeCodeCamp-JavaScriptAlgorithmsAndDataStructures/blob/main/ES6/SpreadOperator.js)
+
