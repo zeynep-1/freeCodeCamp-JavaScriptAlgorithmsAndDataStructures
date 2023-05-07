@@ -37,3 +37,13 @@ My notes
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *[Spread Operator (...arr) [...arr]](https://github.com/zeynep-1/freeCodeCamp-JavaScriptAlgorithmsAndDataStructures/blob/main/ES6/SpreadOperator.js)
 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *[Objects](https://github.com/zeynep-1/freeCodeCamp-JavaScriptAlgorithmsAndDataStructures/tree/main/ES6/Objects)
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *[Objects - Object.freeze() method](https://github.com/zeynep-1/freeCodeCamp-JavaScriptAlgorithmsAndDataStructures/blob/main/ES6/Objects/ObjectFreeze.js)
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *[Objects - Destructuring Assignment](https://github.com/zeynep-1/freeCodeCamp-JavaScriptAlgorithmsAndDataStructures/blob/main/ES6/Objects/DestructuringAssignment.js)
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *[Objects - Object Property Shorthand](https://github.com/zeynep-1/freeCodeCamp-JavaScriptAlgorithmsAndDataStructures/blob/main/ES6/Objects/ObjectProperty.js)
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *[Objects - Constructor Function](https://github.com/zeynep-1/freeCodeCamp-JavaScriptAlgorithmsAndDataStructures/blob/main/ES6/Objects/Constructor.js)
+
