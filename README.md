@@ -54,3 +54,11 @@ My notes
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *[Import & Export](https://github.com/zeynep-1/freeCodeCamp-JavaScriptAlgorithmsAndDataStructures/tree/main/ES6/ImportExport)
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *[JavaScript Promises](https://github.com/zeynep-1/freeCodeCamp-JavaScriptAlgorithmsAndDataStructures/blob/main/ES6/Promise.js)
+
+---
+
+3. [RegEx](https://github.com/zeynep-1/freeCodeCamp-JavaScriptAlgorithmsAndDataStructures/tree/main/RegularExpressions)
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *[Match Method](https://github.com/zeynep-1/freeCodeCamp-JavaScriptAlgorithmsAndDataStructures/blob/main/RegularExpressions/MatchMethod.js)
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *[Test Method](https://github.com/zeynep-1/freeCodeCamp-JavaScriptAlgorithmsAndDataStructures/blob/main/RegularExpressions/TestMethod.js)
