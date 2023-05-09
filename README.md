@@ -47,3 +47,10 @@ My notes
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ->[Objects - Constructor Function](https://github.com/zeynep-1/freeCodeCamp-JavaScriptAlgorithmsAndDataStructures/blob/main/ES6/Objects/Constructor.js)
 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ->[Objects - Getters & Setters](https://github.com/zeynep-1/freeCodeCamp-JavaScriptAlgorithmsAndDataStructures/blob/main/ES6/Objects/GettersSetters.js)
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *[Template Literals](https://github.com/zeynep-1/freeCodeCamp-JavaScriptAlgorithmsAndDataStructures/blob/main/ES6/TemplateLiterals.js)
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *[Import & Export](https://github.com/zeynep-1/freeCodeCamp-JavaScriptAlgorithmsAndDataStructures/tree/main/ES6/ImportExport)
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *[JavaScript Promises](https://github.com/zeynep-1/freeCodeCamp-JavaScriptAlgorithmsAndDataStructures/blob/main/ES6/Promise.js)
