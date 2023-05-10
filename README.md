@@ -62,3 +62,10 @@ My notes
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *[Match Method](https://github.com/zeynep-1/freeCodeCamp-JavaScriptAlgorithmsAndDataStructures/blob/main/RegularExpressions/MatchMethod.js)
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *[Test Method](https://github.com/zeynep-1/freeCodeCamp-JavaScriptAlgorithmsAndDataStructures/blob/main/RegularExpressions/TestMethod.js)
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *[Regular Expressions - General Rules](https://github.com/zeynep-1/freeCodeCamp-JavaScriptAlgorithmsAndDataStructures/blob/main/RegularExpressions/RegEx.js)
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *[RegEx Examples](https://github.com/zeynep-1/freeCodeCamp-JavaScriptAlgorithmsAndDataStructures/blob/main/RegularExpressions/Examples.js)
+
+---
+
