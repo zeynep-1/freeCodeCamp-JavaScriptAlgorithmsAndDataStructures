@@ -69,3 +69,26 @@ My notes
 
 ---
 
+4. [Debugging]
+
+---
+
+5. [Basic Data Structures]
+
+---
+
+6. [Basic Algorithm Scripting]
+
+---
+
+7. [Object Oriented Programming]
+
+---
+
+8. [Functional Programming]
+
+---
+
+9. [Intermediate Algorithm Scripting]
+
+---
