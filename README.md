@@ -69,7 +69,7 @@ My notes
 
 ---
 
-4. [Debugging]
+4. [Debugging](https://github.com/zeynep-1/freeCodeCamp-JavaScriptAlgorithmsAndDataStructures/blob/main/Debugging/debugging.js)
 
 ---
 
