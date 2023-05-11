@@ -73,7 +73,13 @@ My notes
 
 ---
 
-5. [Basic Data Structures]
+5. [Basic Data Structures](https://github.com/zeynep-1/freeCodeCamp-JavaScriptAlgorithmsAndDataStructures/tree/main/Basic%20Data%20Structures)
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *[Split Method & Join Method](https://github.com/zeynep-1/freeCodeCamp-JavaScriptAlgorithmsAndDataStructures/blob/main/Basic%20Data%20Structures/SplitJoin.js)
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *[Splice Method & Slice Method](https://github.com/zeynep-1/freeCodeCamp-JavaScriptAlgorithmsAndDataStructures/blob/main/Basic%20Data%20Structures/SpliceSlice.js)
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *[Concat Method](https://github.com/zeynep-1/freeCodeCamp-JavaScriptAlgorithmsAndDataStructures/blob/main/Basic%20Data%20Structures/Concat.js)
 
 ---
 
