@@ -81,6 +81,10 @@ My notes
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *[Concat Method](https://github.com/zeynep-1/freeCodeCamp-JavaScriptAlgorithmsAndDataStructures/blob/main/Basic%20Data%20Structures/Concat.js)
 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *[Objects](https://github.com/zeynep-1/freeCodeCamp-JavaScriptAlgorithmsAndDataStructures/blob/main/Basic%20Data%20Structures/Object.js)
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *[mxn Zero Array Function](https://github.com/zeynep-1/freeCodeCamp-JavaScriptAlgorithmsAndDataStructures/blob/main/Basic%20Data%20Structures/mxnZeroArray.js)
+
 ---
 
 6. [Basic Algorithm Scripting]
