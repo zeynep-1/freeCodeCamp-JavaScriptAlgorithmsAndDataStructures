@@ -87,7 +87,7 @@ My notes
 
 ---
 
-6. [Basic Algorithm Scripting]
+6. [Basic Algorithm Scripting](https://github.com/zeynep-1/freeCodeCamp-JavaScriptAlgorithmsAndDataStructures/tree/main/Basic%20Algorithm%20Scripting)
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *[Reverse a String](https://github.com/zeynep-1/freeCodeCamp-JavaScriptAlgorithmsAndDataStructures/blob/main/Basic%20Algorithm%20Scripting/ReverseString.js)
 
