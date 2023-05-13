@@ -93,9 +93,9 @@ My notes
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *[Factorialize a Number](https://github.com/zeynep-1/freeCodeCamp-JavaScriptAlgorithmsAndDataStructures/blob/main/Basic%20Algorithm%20Scripting/Factorialize.js)
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *[]()
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *[Longest Word in a Sentence](https://github.com/zeynep-1/freeCodeCamp-JavaScriptAlgorithmsAndDataStructures/blob/main/Basic%20Algorithm%20Scripting/LongestWord.js)
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *[]()
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *[Largest Numbers in Arrays](https://github.com/zeynep-1/freeCodeCamp-JavaScriptAlgorithmsAndDataStructures/blob/main/Basic%20Algorithm%20Scripting/LargestNumbers.js)
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *[]()
 
