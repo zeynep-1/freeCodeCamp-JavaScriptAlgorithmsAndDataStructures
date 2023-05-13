@@ -89,6 +89,18 @@ My notes
 
 6. [Basic Algorithm Scripting]
 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *[Reverse a String](https://github.com/zeynep-1/freeCodeCamp-JavaScriptAlgorithmsAndDataStructures/blob/main/Basic%20Algorithm%20Scripting/ReverseString.js)
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *[Factorialize a Number](https://github.com/zeynep-1/freeCodeCamp-JavaScriptAlgorithmsAndDataStructures/blob/main/Basic%20Algorithm%20Scripting/Factorialize.js)
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *[]()
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *[]()
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *[]()
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *[]()
+
 ---
 
 7. [Object Oriented Programming]
