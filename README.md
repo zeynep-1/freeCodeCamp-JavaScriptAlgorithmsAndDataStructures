@@ -97,6 +97,10 @@ My notes
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *[Largest Numbers in Arrays](https://github.com/zeynep-1/freeCodeCamp-JavaScriptAlgorithmsAndDataStructures/blob/main/Basic%20Algorithm%20Scripting/LargestNumbers.js)
 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *[Confirm the Ending](https://github.com/zeynep-1/freeCodeCamp-JavaScriptAlgorithmsAndDataStructures/blob/main/Basic%20Algorithm%20Scripting/confirmEnding.js)
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *[Repeat a String Num Times](https://github.com/zeynep-1/freeCodeCamp-JavaScriptAlgorithmsAndDataStructures/blob/main/Basic%20Algorithm%20Scripting/RepeatStr.js)
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *[]()
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *[]()
