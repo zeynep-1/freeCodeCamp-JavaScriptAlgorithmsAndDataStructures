@@ -105,9 +105,9 @@ My notes
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *[Find Element](https://github.com/zeynep-1/freeCodeCamp-JavaScriptAlgorithmsAndDataStructures/blob/main/Basic%20Algorithm%20Scripting/findElement.js)
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *[]()
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *[return typeof (x) == "boolean";](https://github.com/zeynep-1/freeCodeCamp-JavaScriptAlgorithmsAndDataStructures/blob/main/Basic%20Algorithm%20Scripting/Bool.js)
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *[]()
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *[Title Case a String](https://github.com/zeynep-1/freeCodeCamp-JavaScriptAlgorithmsAndDataStructures/blob/main/Basic%20Algorithm%20Scripting/TitleCase.js)
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *[]()
 
