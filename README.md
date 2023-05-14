@@ -101,6 +101,14 @@ My notes
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *[Repeat a String Num Times](https://github.com/zeynep-1/freeCodeCamp-JavaScriptAlgorithmsAndDataStructures/blob/main/Basic%20Algorithm%20Scripting/RepeatStr.js)
 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *[Truncate String](https://github.com/zeynep-1/freeCodeCamp-JavaScriptAlgorithmsAndDataStructures/blob/main/Basic%20Algorithm%20Scripting/TruncateStr.js)
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *[Find Element](https://github.com/zeynep-1/freeCodeCamp-JavaScriptAlgorithmsAndDataStructures/blob/main/Basic%20Algorithm%20Scripting/findElement.js)
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *[]()
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *[]()
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *[]()
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *[]()
