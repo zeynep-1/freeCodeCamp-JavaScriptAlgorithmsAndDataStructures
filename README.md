@@ -109,6 +109,10 @@ My notes
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *[Title Case a String](https://github.com/zeynep-1/freeCodeCamp-JavaScriptAlgorithmsAndDataStructures/blob/main/Basic%20Algorithm%20Scripting/TitleCase.js)
 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *[Slice & Splice Practice](https://github.com/zeynep-1/freeCodeCamp-JavaScriptAlgorithmsAndDataStructures/blob/main/Basic%20Algorithm%20Scripting/SliceSplice.js)
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *[Return Falsy Values](https://github.com/zeynep-1/freeCodeCamp-JavaScriptAlgorithmsAndDataStructures/blob/main/Basic%20Algorithm%20Scripting/FalsyValues.js)
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *[]()
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *[]()
