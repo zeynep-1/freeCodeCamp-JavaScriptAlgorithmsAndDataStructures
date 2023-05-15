@@ -113,13 +113,21 @@ My notes
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *[Return Falsy Values](https://github.com/zeynep-1/freeCodeCamp-JavaScriptAlgorithmsAndDataStructures/blob/main/Basic%20Algorithm%20Scripting/FalsyValues.js)
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *[]()
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *[Array Mutation](https://github.com/zeynep-1/freeCodeCamp-JavaScriptAlgorithmsAndDataStructures/blob/main/Basic%20Algorithm%20Scripting/Mutations.js)
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *[]()
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *[Get Index to Ins](https://github.com/zeynep-1/freeCodeCamp-JavaScriptAlgorithmsAndDataStructures/blob/main/Basic%20Algorithm%20Scripting/getIndexToIns.js)
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *[Chunk Array in Groups](https://github.com/zeynep-1/freeCodeCamp-JavaScriptAlgorithmsAndDataStructures/blob/main/Basic%20Algorithm%20Scripting/chunkArrayInGroups.js)
 
 ---
 
 7. [Object Oriented Programming]
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *[]()
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *[]()
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *[]()
 
 ---
 
