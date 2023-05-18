@@ -123,7 +123,7 @@ My notes
 
 7. [Object Oriented Programming]
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *[]()
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *[Mixin](https://github.com/zeynep-1/freeCodeCamp-JavaScriptAlgorithmsAndDataStructures/blob/main/Object%20Oriented%20Programming/mixin.js)
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *[]()
 
